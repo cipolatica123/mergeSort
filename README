@@ -1,0 +1,26 @@
+Alberto Plata
+amplataforgit@gmail.com
+
+ **** About the Program ****
+This is a simple mergeSort algorithm I wrote in java. MergeSort 
+is one of the faster sorting algorithms. It runs in O(nlogn) time
+for best and worst case. The only issue is that it temporarily 
+uses extra memory while running. This is something to consider
+if space is an issue when choosing a sorting algorithm. 
+
+ **** Compile and Run ****
+NOTE: I'm assuming your using a UNIX/Linux machine to run this
+file. 
+
+1. Download the MergeSort.java and save it in a directory of 
+   your choice.
+
+2. Open a terminal and go to where the file is located. Then
+   type in the command line:
+   javac MergeSort.java
+
+NOTE: You may need to install some extra files to run javac.
+
+3. Now type:
+   java MergeSort
+   (this will run the program!)
